@@ -1,0 +1,22 @@
+type = menu
+
+customization-meta {
+  identifier = zmaster587.libVulpes.inventory.GuiModular
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -110
+  actionid = 607109ae-b8ab-4fa4-b2f1-b8bbe40ebf051635082309199
+  action = addtext
+  y = 105
+  scale = 1.0
+  alignment = left
+  value = Button is dark due to a bug, it is still usable!
+}
+
